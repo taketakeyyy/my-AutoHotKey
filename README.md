@@ -47,8 +47,8 @@ QuattroTKL 用の設定ファイル。
 * Shortcut allow keys.
     * (F13|F16)+(W|A|S|D) -> Arrow keys.
 * Shortcut delete keys.
-    * (F13|F16)+(;) -> Backspace key.
-    * (F13|F16)+(:) -> Delete key.
+    * (F13|F16)+(j) -> Backspace key.
+    * (F13|F16)+(k) -> Delete key.
 
 # About AutoHotKey
 ## ダウンロードとインストール
